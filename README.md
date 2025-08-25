@@ -1,2 +1,2 @@
 # nextjs-projects
-nextjs projects
+nextjs project
